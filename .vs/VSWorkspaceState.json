@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin"
+    "\\.github",
+    "\\bin",
+    "\\docs",
+    "\\log",
+    "\\requirements"
   ],
-  "SelectedNode": "\\bin\\produttore_e_consumatore.py",
+  "SelectedNode": "\\log",
   "PreviewInSolutionExplorer": false
 }
